@@ -1,0 +1,10 @@
+# Gerador de Senhas em Angular
+
+Este é um gerador de senhas simples feito em Angular, que permite ao usuário gerar senhas personalizadas com opções para incluir letras, números e símbolos.
+
+## Como executar o projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-de-senhas.git

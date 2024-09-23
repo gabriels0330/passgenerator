@@ -1,0 +1,40 @@
+.password-generator {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .password-generator h2 {
+    margin-bottom: 20px;
+  }
+  
+  .password-generator div {
+    margin-bottom: 10px;
+  }
+  
+  .password-generator label {
+    margin-right: 10px;
+  }
+  
+  .password-generator button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .password-generator button:hover {
+    background-color: #218838;
+  }
+  
+  .password-generator p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
